@@ -17,10 +17,10 @@
 
 ## 2. Project Motivation <a name="motivation"></a>
 For this project, I was interestested in using Stack Overflow data from 2011 to 2018 to better understand:
-> * 1.What are the most popular areas in Santa Clara for rentals and when (weekends, days etc)?  
-> * 2.On which days (weekdays or on weekends) the demand is more?
-> * 3.Analyzing the reviews of the listings  
-> * 4.Whats factors contribute to the better rating?
+> * What are the most popular areas in Santa Clara for rentals and when (weekends, days etc)?  
+> * On which days (weekdays or on weekends) the demand is more?
+> * Analyzing the reviews of the listings  
+> * Whats factors contribute to the better rating?
 
 ## 3. File Descriptions <a name="files"></a>  
 - calendar.csv: Provides date, availability, and price data for each listing
