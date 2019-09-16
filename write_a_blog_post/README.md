@@ -23,6 +23,10 @@ For this project, I was interestested in using Stack Overflow data from 2011 to 
 > * 4.Whats factors contribute to the better rating?
 
 ## 3. File Descriptions <a name="files"></a>  
+- calendar.csv: Provides date, availability, and price data for each listing
+- listings.csv: Provides comprehensive details about each listing including host details, location -  description and details, and review ratings
+- reviews.csv: Provides details of review comments
+
 To walk-thru the full project, check out the [notebook]().
 Markdown cells were used to assist in walking through the thought process for individual steps.  
 
