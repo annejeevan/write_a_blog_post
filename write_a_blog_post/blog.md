@@ -14,7 +14,7 @@ From the below image, we can see the bookings increase every summer, gradually r
 
 ### Part II: On which days (weekdays or on weekends) the demand is more?
 
-Bookings are same across all days in a week. But more number of bookings are on Thursday and Sunday.
+Bookings are same across all days in a week. But more number of bookings are on Thursday and Sunday. Interesting to see that bookings happen on all days. May be we could expect the tourists or accomodation for employees etc.,
 
 ![days](days.png)
 
@@ -31,3 +31,13 @@ Generally people tend to opt for listings, which are good. Lets see why people g
 
 
 ### Conclusion
+
+In this article, we looked at AirBnB data from Santa Clara to understand three areas of interest: popular areas, popular timing, popular days, analyzing reviews and listing review ratings.
+
+There were some useful insights found at each part of our questions, but equally there were some questions left unanswered. Three high level takeaways include:
+
+Santa Clara listings appear to have more bookings, which may be because of the companies around (where employees were given accomodation for few days etc) or traveling destinations etc. There are more listings which are booked in San Jose, way higher than other areas.
+
+Bookings for the homes, generally happning at the end of the week (Thursday) and start of the week (Sunday Night for instance)
+
+In Santa Clara, visitors tend to care about availability to the city, great lodging services, beautiful location, staff freindliness 
