@@ -1,0 +1,33 @@
+# Predict Review Rating for Santa Clara Airbnb
+
+--------------------------------------
+1. [Installation](#installation)
+2. [Project Motivation](#motivation)
+3. [File Descriptions](#files)
+4. [Results](#results)
+5. [Licensing, Authors, and Acknowledgements](#licensing)
+
+## 1. Installation <a name="installation"></a>
+- Pandas
+- Numpy
+- Sklearn
+- Seaborn
+- Matplotlib etc.,
+- The code should run with no issues using Python versions 3.*.
+
+## 2. Project Motivation <a name="motivation"></a>
+For this project, I was interestested in using Stack Overflow data from 2011 to 2018 to better understand:
+> * 1.What are the most popular areas in Santa Clara for rentals and when (weekends, days etc)?  
+> * 2.On which days (weekdays or on weekends) the demand is more?
+> * 3.Analyzing the reviews of the listings  
+> * 4.Whats factors contribute to the better rating?
+
+## 3. File Descriptions <a name="files"></a>  
+To walk-thru the full project, check out the [notebook]().
+Markdown cells were used to assist in walking through the thought process for individual steps.  
+
+## 4. Results <a name="results"></a>
+The main findings of the code can be found at the post available [here]().
+
+## 5. Licensing, Authors, Acknowledgements<a name="licensing"></a>
+Must give credit to Airbnb for the data.  You can find the Licensing for the data and other descriptive information at the following link available [here](http://insideairbnb.com/get-the-data.html). 
