@@ -45,4 +45,4 @@ Santa Clara listings appear to have more bookings, which may be because of the c
 
 Bookings for the homes, generally happning at the end of the week (Thursday) and start of the week (Sunday Night for instance)
 
-In Santa Clara, visitors tend to care about availability to the city, great lodging services, beautiful location, staff freindliness 
+In Santa Clara, visitors tend to care about availability to the city, great lodging services, beautiful location, staff freindliness. Its important to get good reviews.
