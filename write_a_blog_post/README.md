@@ -30,8 +30,8 @@ For this project, I was interestested in using Stack Overflow data from 2011 to 
 To walk-thru the full project, check out the [notebook]().
 Markdown cells were used to assist in walking through the thought process for individual steps.  
 
-## 4. Results <a name="results"></a>
-The main findings of the code can be found at the post available [here]().
+## 4. Results - Blog Post <a name="results"></a>
+The main findings of the code can be found at the post available [here](blog.md).
 
 ## 5. Licensing, Authors, Acknowledgements<a name="licensing"></a>
 Must give credit to Airbnb for the data.  You can find the Licensing for the data and other descriptive information at the following link available [here](http://insideairbnb.com/get-the-data.html). 
