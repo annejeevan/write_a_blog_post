@@ -28,6 +28,11 @@ Generally people tend to opt for listings, which are good. Lets see why people g
 
 ### Part IV: Whats factors contribute to the better rating?
 
+People usually see the reviews of the listings and then book, as we see in our model that increase in review scores accuracy, value, cleanliness, communication, checkin increases the review ratings.
+
+Also, review might increase when host is superhost. To be a superhost, need to be good in all aspects (service, cleanliness etc)
+
+In order to get reviews, service should be better for the value of the listing.
 
 
 ### Conclusion
