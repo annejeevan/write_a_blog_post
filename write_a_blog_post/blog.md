@@ -1,6 +1,6 @@
 ## Introduction
 
-There are many owners who are offering lodging services via Airbnb, but few get good ratings and revenues. I wanted to know the factors, so that I can offer the services and maximize reviews.
+There are many owners who are offering lodging services via Airbnb, but few get good ratings and revenues. I wanted to know the factors, so that I can offer the services and maximize revenue.
 
 ### Part I: What are the most popular areas in Santa Clara for rentals and when (weekends, days etc)?
 
