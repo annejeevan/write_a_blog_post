@@ -1,4 +1,4 @@
-## Introduction
+## Introduction - Where and how exaclty the lodging services to be offered in Santa Clara
 
 There are many owners who are offering lodging services via Airbnb, but few get good ratings and revenues. I wanted to know the factors, so that I can offer the services and maximize revenue.
 
