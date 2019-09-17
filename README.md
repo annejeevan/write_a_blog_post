@@ -27,7 +27,7 @@ For this project, I was interestested in using Stack Overflow data from 2011 to 
 - listings.csv: Provides comprehensive details about each listing including host details, location -  description and details, and review ratings
 - reviews.csv: Provides details of review comments
 
-To walk-thru the full project, check out the [notebook]().
+To walk-thru the full project, check out the [notebook](DSND_1.ipynb).
 Markdown cells were used to assist in walking through the thought process for individual steps.  
 
 ## 4. Results - Blog Post <a name="results"></a>
