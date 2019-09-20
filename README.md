@@ -16,7 +16,7 @@
 - The code should run with no issues using Python versions 3.*.
 
 ## 2. Project Motivation <a name="motivation"></a>
-For this project, I was interestested in using Stack Overflow data from 2011 to 2018 to better understand:
+For this project, I was interestested in using Santa Clara Airbnb data:
 > * What are the most popular areas in Santa Clara for rentals and when (weekends, days etc)?  
 > * On which days (weekdays or on weekends) the demand is more?
 > * Analyzing the reviews of the listings  
